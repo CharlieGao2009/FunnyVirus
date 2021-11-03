@@ -4,22 +4,22 @@ using namespace std;
 int main()
 {
 	system("color 0a");
-	printf("%s","—°‘Ò“ª∏ˆ”Ô—‘°£  Pick a language.\n				ZH=ºÚÃÂ÷–Œƒ  EN=English(US)\n");
+	printf("%s","ÈÄâÊã©‰∏Ä‰∏™ËØ≠Ë®Ä„ÄÇ  Pick a language.\n				ZH=ÁÆÄ‰Ωì‰∏≠Êñá  EN=English(US)\n");
 	string lang;
 	cin>>lang;
 	if (lang=="ZH")
 	{
-		printf("%s","æ™œ≤£¨ƒ„µƒµÁƒ‘÷–≤°∂æ¡À\n\n\n¥Û Œ£\n\n\n");
+		printf("%s","ÊÉäÂñúÔºå‰Ω†ÁöÑÁîµËÑë‰∏≠ÁóÖÊØí‰∫Ü\n\n\nÂ§ß Âç±\n\n\n");
 		Sleep(2500);
 		system("tree");
 		int n=20;
 		while (n--) system("dir");
-		printf("’˝‘⁄œ˙ªŸ“‘…œŒƒº˛°≠°≠«Î…‘µ»\n");
+		printf("Ê≠£Âú®ÈîÄÊØÅ‰ª•‰∏äÊñá‰ª∂‚Ä¶‚Ä¶ËØ∑Á®çÁ≠â\n");
 		printf("%s%d%s%d%s%d%s%d%s%d","%",20,"\n%",40,"\n%",60,"\n%",80,"\n%",100);
 		Sleep(6500);
-		printf("%s","\n\n\n\n\n\n\n\n\n    						”ﬁ  »À  Ω⁄  øÏ  ¿÷ [/doge]\n\n\n\n\n\n");
-		printf("%s","\nCopyright Giao◊” 2020~2021  FunnyVirus 0.2.1");
-		printf("%s","\n\n    						∞¥Q+Enterº¸ÕÀ≥ˆ°≠°≠\n");
+		printf("%s","\n\n\n\n\n\n\n\n\n    						ÊÑö  ‰∫∫  ËäÇ  Âø´  ‰πê [/doge]\n\n\n\n\n\n");
+		printf("%s","\nCopyright GiaoÂ≠ê 2020~2021  FunnyVirus 0.2.1");
+		printf("%s","\n\n    						ÊåâQ+EnterÈîÆÈÄÄÂá∫‚Ä¶‚Ä¶\n");
 		char q;
 		cin>>q;
 		while (1)
@@ -39,7 +39,7 @@ int main()
 		printf("%s%d%s%d%s%d%s%d%s%d","%",20,"\n%",40,"\n%",60,"\n%",80,"\n%",100);
 		Sleep(6500);
 		printf("%s","\n\n\n\n\n\n\n\n\n    						Happy Fool's Day!![/doge]\n\n\n\n\n\n");
-		printf("%s","\nCopyright Giao◊” 2020~2021  FunnyVirus 0.2.1");
+		printf("%s","\nCopyright GiaoÂ≠ê 2020~2021  FunnyVirus 0.2.1");
 		printf("%s","\n\n    						Press Q+Enter to quit......\n");
 		char q;
 		cin>>q;
@@ -51,13 +51,13 @@ int main()
 	}
 	else
 	{
-		printf("%s","Œﬁ¥À”Ô—‘£°  No such language!");
+		printf("%s","Êó†Ê≠§ËØ≠Ë®ÄÔºÅ  No such language!");
 		Sleep(1000);
 	}
 	return 0;
 }
 
-/*  Copyright Giao◊” 2020~2021
+/*  Copyright GiaoÂ≠ê 2020~2021
 	FunnyVirus 0.2.1
 	Time :"2021/10/01 10:25 UTC+8:00
 */ 
