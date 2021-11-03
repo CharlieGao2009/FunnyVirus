@@ -1,0 +1,7 @@
+FV-00001
+{
+	description:There's a four seconds break before the "Copyright"
+	fixed:true
+	fixed_version:0.2.1
+	fixed_date:2021-10-01
+}
