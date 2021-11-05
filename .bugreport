@@ -1,7 +1,47 @@
-FV-00001
+FV-001
 {
 	description:There's a four seconds break before the "Copyright"
 	fixed:true
 	fixed_version:0.2.1
 	fixed_date:2021-10-01
+}
+
+FV-002
+{
+	description:Outputs comes in the last part of the programme
+	fixed:true
+	fixed_version:0.3.2
+	fixed_date:2021-10-24
+}
+
+FV-003
+{
+	description:Failed to launch "FunnyVirus"
+	fixed:true
+	fixed_version:0.3.3
+	fixed_date:2021-11-04
+}
+
+FV-004
+{
+	description:The language of the "Copyright" is always "ZH"
+	fixed:true
+	fixed_version:0.3.5
+	fixed_date:2021-11-04
+}
+
+FV-005
+{
+	description:In Language "EN",Failed to title "Suprise!!!Your computer is hacked!!!!!"
+	fixed:true
+	fixed_version:0.3.5
+	fixed_date:2021-11-04
+}
+
+FV-006
+{
+	description:Failed to dir
+	fixed:true
+	fixed_version:0.3.5
+	fixed_date:2021-11-04
 }
