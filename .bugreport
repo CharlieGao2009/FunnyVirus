@@ -45,3 +45,11 @@ FV-006
 	fixed_version:0.3.5
 	fixed_date:2021-11-04
 }
+
+FV-007
+{
+	description:The language of the title part is always "ZH"
+	fixed:true
+	fixed_version:0.4.1 - Rc 1
+	fixed_date:2021-11-07
+}
