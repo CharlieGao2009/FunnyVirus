@@ -1,2 +1,2 @@
-# FunnyVirus--Source-Code
+# FunnyVirus
 Official codes from CharlieGao2009
